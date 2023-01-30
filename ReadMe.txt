@@ -11,9 +11,3 @@ Steps for execution:
 4. Create multiple nodes by executing command of step 3. Every time change second last argument (Say 1, 2, and so on).
 
 5. To kill a node use CTRL+C in that node's running terminal.
-
-%%%%%%%%%%
-Arshad  %%
-Aditya  %%
-Nalini  %%
-%%%%%%%%%%
